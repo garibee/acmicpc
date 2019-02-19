@@ -1,0 +1,2 @@
+# acmicpc
+Algorithm for myself
